@@ -6,7 +6,7 @@ It was also the project during which I learnt the MVC (Model-View-Controller) ar
 
 The program should be run by building App.py.
 
-This README will be updated shortly in the future.
+This README will be updated shortly in the future with correct installation steps.
 
 ## Screenshots
 
